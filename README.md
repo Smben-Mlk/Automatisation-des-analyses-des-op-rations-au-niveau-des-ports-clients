@@ -16,24 +16,24 @@ toutes les configurations de débits sont conformes aux abonnements des clients 
 
 ## Dataset
 
-##Inputs
+## Inputs
 
--Exports NCE ( fichiers compressés qui contiennent les ports NCE et toutes les informations relatives à ces derniers.)
+- Exports NCE ( fichiers compressés qui contiennent les ports NCE et toutes les informations relatives à ces derniers.)
 
--Log NCE (contient toutes les opérations effectuées sur NCE)
+- Log NCE (contient toutes les opérations effectuées sur NCE)
 			format: fichier compréssé(.zip)
--Parc (contient tous les clients fixes et leur abonnement.)
+- Parc (contient tous les clients fixes et leur abonnement.)
 			format: fichier texte (.txt)
--Références Débits (contient les débits up et down correspondant à chaque abonnement)
+- Références Débits (contient les débits up et down correspondant à chaque abonnement)
 			format: fichier excel(.xlsx)
--Export Kibaru (contient toutes les signalisations relatives aux ND)
+- Export Kibaru (contient toutes les signalisations relatives aux ND)
 			format: fichier excel (.xlsx)
 			période de couverture: du lundi au dimanche (7 jours )
--Login NCE(contient tous les utilisateurs NCE et leurs structures respectives)
+- Login NCE(contient tous les utilisateurs NCE et leurs structures respectives)
 		format: fichier excel (.xlsx)
 		à fiabiliser au besoin
 
-##Outputs
+## Outputs
 
 - CONTRÔLE XDSL NCE
   
