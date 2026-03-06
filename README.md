@@ -90,13 +90,13 @@ Croisement de chaque action de changement de débit avec chacun des fichiers pou
  
 Possibilités :
 
-DEBIT OK si REF UP =DB UP et REF DOWN = DB DOWN
+- DEBIT OK si REF UP =DB UP et REF DOWN = DB DOWN
 
-DEBIT NOK si REF UP ≠ DB UP et REF DOWN = DB DOWN
+- DEBIT NOK si REF UP ≠ DB UP et REF DOWN = DB DOWN
 
-DEBIT NOK si REF UP =DB UP et REF DOWN ≠DB DOWN
+- DEBIT NOK si REF UP =DB UP et REF DOWN ≠DB DOWN
 
-DEBIT NOK si REF UP ≠DB UP et REF DOWN ≠DB DOWN
+- DEBIT NOK si REF UP ≠DB UP et REF DOWN ≠DB DOWN
 
 ## Dashboard
 
