@@ -8,11 +8,11 @@ toutes les configurations de débits sont conformes aux abonnements des clients 
 
 ## Outils
 
--Python (pandas numpy matplolib)
+- Python (pandas numpy matplolib)
 
--Power BI
+- Power BI
 
--Excel
+- Excel
 
 ## Dataset
 
@@ -51,7 +51,7 @@ feuille 3
 
 Contient toutes les opérations de changement de débit déjà contrôlées.
 
--CONTRÔLE CHANGEMENT DE DÉBIT
+- CONTRÔLE CHANGEMENT DE DÉBIT
 
 feuille 1
 
@@ -69,7 +69,7 @@ feuille 4
 
 Contient toutes les opérations de changement de débit déjà contrôlées.
 
--CONTRÔLE ACTIVATION SUPPRESSION DE PORT
+- CONTRÔLE ACTIVATION SUPPRESSION DE PORT
 
 feuille 1
 
