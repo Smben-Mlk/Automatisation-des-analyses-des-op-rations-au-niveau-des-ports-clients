@@ -36,34 +36,47 @@ toutes les configurations de débits sont conformes aux abonnements des clients 
 ##Outputs
 
 - CONTRÔLE XDSL NCE
+  
 Croisement entre  login NCE, l’export Kibaru, le PARC ,les références de débit, le log XDSL et l’export XDSL qui nous permet de vérifier les actions au niveaux des équipements ADSL/VDSL ainsi que les configurations de débit.
-feuille 1(DESC)
+
+feuille 1
+
 Contient toutes les opérations XDSL DESC avec leurs cases respectives.
 
-feuille 2(A JUSTIF)
+feuille 2
+
 Contient toutes les opérations XDSL DESC avec sans cases.
-.
-feuille 3(CHANGEMENTS DE DÉBITS)
+
+feuille 3
+
 Contient toutes les opérations de changement de débit déjà contrôlées.
 
 -CONTRÔLE CHANGEMENT DE DÉBIT
-feuille 1(DESC)
+
+feuille 1
+
 Contient toutes les opérations FIBRE DESC avec leurs cases respectives.
 
-feuille 2(A JUSTIF)
+feuille 2
+
 Contient toutes les opérations FIBRE DESC avec sans cases.
 
-feuille 3(CONFIGURATIONS)
+feuille 3
+
 Contient toutes les opérations de configurations TV VOIP INTERNET.
 
-feuille 4(CHANGEMENTS DE DÉBITS)
+feuille 4
+
 Contient toutes les opérations de changement de débit déjà contrôlées.
 
 -CONTRÔLE ACTIVATION SUPPRESSION DE PORT
-feuille 1(DESC)
+
+feuille 1
+
 Contient toutes les opérations d’activation/désactivation de port  DESC avec leurs cases respectives.
 
-feuille 2(A JUSTIF)
+feuille 2
+
 Contient les opérations d’activation/desactivation de port  DESC sans cases.
 
 ## Aproche d'analyse
