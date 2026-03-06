@@ -3,8 +3,9 @@
 ## Objectif
 
 Ce projet a pour objectif de s’assurer que:
-toutes les opérations sur les ports se font sur demande formelle;
-toutes les configurations de débits sont conformes aux abonnements des clients (anti fraude).
+
+- toutes les opérations sur les ports se font sur demande formelle;
+- toutes les configurations de débits sont conformes aux abonnements des clients (anti fraude).
 
 ## Outils
 
