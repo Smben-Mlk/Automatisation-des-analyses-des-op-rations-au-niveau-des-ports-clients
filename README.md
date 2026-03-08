@@ -10,7 +10,7 @@ Ce projet a pour objectifs de:
 - s’assurer que toutes les opérations sur les ports se font sur demande formelle;
 - s’assurer que toutes les configurations de débits sont conformes aux abonnements des clients (anti fraude).
 
-[Voir rapport complet] (https://github.com/Smben-Mlk/Automatisation-des-analyses-des-op-rations-au-niveau-des-ports-clients/blob/main/RAPPORT%20AUTOMATISTION%20DES%20OP%C3%89RATIONS%20NCE.pdf)
+[Voir rapport complet](https://github.com/Smben-Mlk/Automatisation-des-analyses-des-op-rations-au-niveau-des-ports-clients/blob/main/RAPPORT%20AUTOMATISTION%20DES%20OP%C3%89RATIONS%20NCE.pdf)
 
 ## Outils
 
