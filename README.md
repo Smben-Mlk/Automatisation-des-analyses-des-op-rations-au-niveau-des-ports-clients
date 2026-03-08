@@ -60,11 +60,11 @@ Croisement entre  login NCE, l’export Kibaru, le PARC ,les références de dé
 
 feuille 1
 
-Contient toutes les opérations XDSL DESC avec leurs cases respectives.
+Contient toutes les opérations XDSL avec leurs cases respectives.
 
 feuille 2
 
-Contient toutes les opérations XDSL DESC avec sans cases.
+Contient toutes les opérations XDSL avec sans cases.
 
 feuille 3
 
@@ -74,11 +74,11 @@ Contient toutes les opérations de changement de débit déjà contrôlées.
 
 feuille 1
 
-Contient toutes les opérations FIBRE DESC avec leurs cases respectives.
+Contient toutes les opérations FIBRE avec leurs cases respectives.
 
 feuille 2
 
-Contient toutes les opérations FIBRE DESC avec sans cases.
+Contient toutes les opérations FIBRE avec sans cases.
 
 feuille 3
 
@@ -92,11 +92,11 @@ Contient toutes les opérations de changement de débit déjà contrôlées.
 
 feuille 1
 
-Contient toutes les opérations d’activation/désactivation de port  DESC avec leurs cases respectives.
+Contient toutes les opérations d’activation/désactivation de port  avec leurs cases respectives.
 
 feuille 2
 
-Contient les opérations d’activation/desactivation de port  DESC sans cases.
+Contient les opérations d’activation/desactivation de port sans cases.
 
 ## Approche d'analyse
 
